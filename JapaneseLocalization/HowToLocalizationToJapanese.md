@@ -1,4 +1,5 @@
 ### はじめに
+![日本語化のプレビュー画像](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/img/Localizated_gameplay.png "日本語化されたゲーム画面のサンプル画像")
 
 この日本語化はゲーム非公式のものです。
 
@@ -28,7 +29,7 @@
 ---
 ### 日本語化のやりかた
 
-1. [日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
+1. [日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。(名前を付けてリンク先を保存 または 右クリックで名前を付けて保存 です)
 2. Starship Theory の Config ディレクトリを開きます。
     - Config ディレクトリの場所:
         - Windows の場合:
@@ -40,6 +41,7 @@
 3. Config ディレクトリに手順1で保存した Custom.txt を配置します。
 4. ゲームを起動します。
 5. Interface ＞ Language を選んで デフォルトでは English となっている部分を Cunstom になるまでクリックします。
+    - ![Language で Custom を選ぶ](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/img/SettingToJapanese.png "画面操作のイメージ")
 6. Quit を選んでゲームを終了します。
 7. もう一度、ゲームを起動すると日本語化されます。
 
@@ -48,6 +50,7 @@
 
 1. ゲームを起動します。
 2. インターフェース ＞ 言語設定 を選んで Custom となっている部分を English になるまでクリックします。
+    - ![Language で English を選ぶ](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/ "画面操作のイメージ")
 3. 終了 を選んでゲームを終了します。
 4. Starship Theory の Config ディレクトリを開いて、 Custom.txt を削除します。
 
