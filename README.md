@@ -6,7 +6,7 @@ Starship Theory という Steam ゲームの Modding とかを扱う個人リポ
 
 - [日本語化について](/JapaneseLocalization/HowToLocalizationToJapanese.md)
     - ゲームの日本語化とその方法について。
-- [MOD 作成について](/Modding/)
+- [MOD 作成について](/Modding/ModdingHowTo.md)
     - ゲーム本体がまだ Modding 非対応です。
 
 ### License
