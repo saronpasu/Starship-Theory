@@ -1,0 +1,990 @@
+//
+//	Japanese text file
+//
+//	//	ignore line
+//	#	start of new category
+//
+
+
+#	000		Tooltip text and crew notifications
+Ship cargo
+Storage capacity
+食料
+Crew requirement
+メタル
+Required for nearly all construction
+飲料水
+Crew requirement
+クレジット
+Total credits
+Plan panel
+Construct parts
+Crew panel
+Crew overview. Middle click to center on crewmember.
+Total Crew
+Combined crew total
+パワー
+Required to power components
+エネルギー
+睡眠により回復します
+食事により回復します
+Requires
+パワー
+ゴールド
+Required for construction of complex components
+シリコン
+Required for construction of simple components
+水分補給により回復します
+Required to run components
+空腹度
+のどの乾き
+必要
+units
+available
+in use
+Durability
+経験値
+働くことで増加します。
+boost
+cooling
+They're surrendering!
+Trade
+successful
+unsuccessful
+長距離センサーに宇宙船の反応を検出しました
+前方に小惑星帯の反応を検出しました
+前方に惑星の反応を検出しました
+Target ship is hostile! Unused
+熱暴走しています
+Excess cargo vented
+酸素
+Required for spacewalks
+Ship is now on an intercept course
+Looks like a trade ship
+They're powering up their weapons!
+We are being scanned
+They're powering up their weapons
+彼らはここから離れようとしています
+宇宙船がワープアウトしました
+Ship has changed course and will intercept us
+The ship has not detected us
+恐喝
+相手を恐喝してクレジットを要求する
+賄賂
+賄賂を支払い立ち去ってもらう
+彼らとはまだ敵対していません
+They're trying to escape!
+The target ship is breaking apart
+賄賂は受け入れられました
+Bribe failed
+Our threat was successful
+Our threat failed
+食料がありません
+飲料水がありません
+食料にアクセスできません
+飲料水にアクセスできません
+Setting new course to asteroid field
+Setting new course to ship signature
+New course
+Set course to asteroid field
+New course
+Set course to ship signature
+Ship already present
+We're too close to current field
+Center camera
+タスク
+制御
+タスクパネル
+作業タスクのキューを確認できます。 中クリックで選択したタスクを中央に表示します。
+制御パネル
+インストールされた宇宙船の電源制御を確認できます。 中クリックで選択したパーツを中央に表示します。
+Component power on
+Component power off
+CPU 消費容量
+パワー 消費容量
+電源制御
+電源のオン/オフを切り替えます
+研究
+新しいコンポーネントを研究します
+研究ポイントが必要:
+Hardcoded bindings
+New crew
+必要
+for all planned construction
+progress
+Notifications
+Notifications ordered by most recent at top
+Select crew
+Select new crew to sell
+was destroyed
+
+#	200		Build buttons text
+取り消し
+Cancel plans or remove structure. Refunds full cost if undamaged, otherwise refunds HP percentage.
+フレーム
+宇宙船のベースとなるフレームをつくります。フレームのコーナーから空気漏れが起こることはありません
+フロア
+フレームの中に部屋をつくります
+ベッド
+生活環境を向上させます
+クレート(小)
+カーゴ容量を追加します
+クレート(中)
+ユニット
+フード ディスペンサー
+食料を受け取ることができます [配置時に向きを変更可能]
+中型エンジン
+この設備はメンテナンスが必要です。 コーナーに設置することはできません。 回避性能を上昇:
+大型エンジン
+この設備はメンテナンスが必要です。 コーナーに設置することはできません。 回避性能を上昇:
+最大級エンジン
+この設備はメンテナンスが必要です。 コーナーに設置することはできません。 回避性能を上昇:
+椅子
+乗組員が食事をとるときに使用します。歩いて通過できます。
+テーブル(小)
+床で食事をとるよりも快適です
+テーブル(中)
+床で食事をとるよりも快適です
+テーブル(大)
+床で食事をとるよりも快適です
+ドア
+ドアロックができます。気密性はありません。
+エアロック
+宇宙船には必要な設備です。気密性があります。
+優先順位
+優先タスクに指定します
+ソーラーパネル
+パワーを供給します
+ソーラー
+フレーム(コーナー)
+Hull corner desc
+菜園(小)
+使用することで食料を 1 生産します
+菜園(中)
+使用することで食料を 2 生産します
+菜園(大)
+使用することで食料を 4 生産します
+小型リアクター
+パワーを供給します。 この設備はメンテナンスが必要です。
+中型リアクター
+パワーを供給します。 この設備はメンテナンスが必要です。
+大型リアクター
+パワーを供給します。 この設備はメンテナンスが必要です。
+ナビゲーション端末
+Worked by operations. Increases evade by intelligence skill. Can be used to head towards asteroid/ship. [DIRECTIONAL]
+センサー端末
+Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
+火器制御端末
+Worked by military. Increases accuracy by combat skill. [DIRECTIONAL]
+シールド端末
+Worked by military. Increases shield recharge by combat skill. [DIRECTIONAL]
+大型倉庫
+Add cargo capacity
+小型エンジン
+Requires maintenance. Cannot be built on corners. Increase evade by
+シールドジェネレータ
+Recharges shield cell.
+生命維持装置
+酸素を供給します
+中型生命維持装置
+Medium life support desc
+大型生命維持装置
+Large life support desc
+大型タレット
+Basic energy weapon
+シールドセル
+Base shield component. Requires charging.
+魚雷発射装置
+Slow firing powerful explosive weapon
+ロケットポッド
+Multi shot explosive weapon
+プラズマタレット
+Fast firing energy weapon
+レールガン
+Hard hitting projectile weapon
+EMPタレット
+Energy weapon effective against shields
+チェインガン
+Multi shot projectile weapon
+シールドブースター
+Recharges shield cell
+小型装甲板
+Provides armor buffer
+中型装甲板
+Provides armor buffer
+大型装甲板
+Provides armor buffer
+装甲修復装置
+Uses nanobots to recharge armor buffer
+船長の座席
+Provides speed, morale and energy bonuses
+ワープコア
+Doubles jump drive recharge speed
+採掘レーザー
+Mines metal, silicon, gold and water. Range can be increased with console or extender.
+フロアマーキング
+Internal decoration
+サーキットプリンター
+Circuit printer desc
+医療パッド
+Enables crew healing. Can walk over when not in use.
+カーゴハッチ
+Add external cargo capacity
+コミュニケーション端末
+Worked by operations. Increases notification time by intelligence skill. [DIRECTIONAL]
+熱管理端末
+Worked by operations. Increase heat vent amount by intelligence skill. [DIRECTIONAL]
+通信アレイ
+Communications array desc
+小さな排気口
+熱冷却効率
+小型ソーラーパネル
+ジェネレータ出力
+中型ソーラーパネル
+ジェネレータ出力
+CPUアレイ
+CPU出力
+ウォータークーラー
+水供給
+センサーアレイ
+脅威の検出性能
+Hull brace
+Increases structure buffer. Can be walked over.
+装甲管理端末
+Worked by military. Improves armor recharge by combat skill [DIRECTIONAL]
+Limit 1
+Clear console
+Clear console desc
+Mining extender
+Increases mining range
+Energy penetration
+Increases damage of adjacent energy weapons (not diagonal)
+Projectile penetration
+Increases damage of adjacent projectile weapons (not diagonal)
+Explosive penetration
+Increases damage of adjacent explosive weapons (not diagonal)
+Energy protection S
+Energy protection S desc
+Projectile protection S
+Projectile protection S desc
+Explosive protection S
+Explosive protection S desc
+Weapon upgrade
+Energy upgrade
+Projectile upgrade
+Explosive upgrade
+Mining length
+Energy protection A
+Energy protection A desc
+Projectile protection A
+Projectile protection A desc
+Explosive protection A
+Explosive protection A desc
+Shield Amp
+Increases shield recharge of adjacent booster (not diagonal)
+Armor Amp
+Increases armor recharge of adjacent booster (not diagonal)
+CPU パネル
+Provides CPU externally
+Base shield damage
+Base hull damage
+Base crew damage
+Reload time
+Hull marking
+External decoration
+研究ステーション
+Unlock new components
+Drag box
+構築予定
+修理予定
+Remove task
+Resource check
+Task completion
+Progress of task completion
+Ship core
+All components must be connected to the ship core by hull or floor.
+Medium heat vent
+capacity
+vent
+Mining console
+Worked by military. Increases mining range by combat skill. [DIRECTIONAL]
+
+#	400		Menu text
+カーゴ
+プラン
+取り消し
+乗組員
+ベッドに割り当てる
+ベッドに割り当てる(一括)
+エンジニアリング
+家具
+ユーティリティ
+乗組員
+名前変更
+ドア
+ドア(一括)
+エアロック
+エアロック(一括)
+アンロック
+ロック
+殺す (デバッグ)
+ベッドの割当解除
+ベッドの割当解除(一括)
+デフォルト設定に戻す
+乗組員の名前変更
+Rename crew desc
+割当
+に
+俊敏性
+移動速度を増加させます
+技術力
+建造する速度や、修理する速度を増加させます。エンジン制御にも影響します。
+耐久力
+エネルギー、空腹度、健康状態の減少に影響します。
+知性
+食料の生産、研究する速度を増加させます。戦闘に関わらない機器の制御にも影響します。
+健康状態
+食事、睡眠、医療行為などで増加します。 耐久力による影響を受けます。
+モラル
+食事、睡眠、宇宙船の家具などで増加します。 知性による影響を受けます。
+PLAYER
+Construct engineering components
+Construct furniture
+Construct functional components
+Mass
+Size rating of ship used in evade skill
+Player ship
+Player ship name
+プラン
+Toggle panel
+OPTIONS
+Power on
+Power component
+Power off
+Disable component
+required to operate
+睡眠
+Operations
+Crew operated terminals
+食事
+命令
+死亡
+食事
+睡眠
+Open
+Close
+Weapons
+Weapons and weapon buffs
+Vent
+Vent oxygen to space
+Seal ship from venting to space
+Assign console
+Assign console to crew
+Assign bed
+Assign bed to crew
+Enable work
+Allow crew to work on this structure
+Disable work
+Prevent this structure from being worked
+Manual control
+Give specific orders to this crew member
+Release control
+Crew member will find their own destiny
+配属を変更
+Order
+Control group
+Stop targeting
+Prevent weapon from shooting
+Shield
+Current shield and repair value
+Armor
+Current armor and repair value
+Defences
+Construct defensive capabilities
+Structure
+Current structure and repair value
+TARGET
+Target ship designation
+Target ship shield
+Target ship current shield and repair value
+Target ship armor
+Target ship current armor and repair value
+Target ship structure
+Target ship current structure and repair value
+Rename marking
+Rename marking
+パワー
+ワープドライブ
+Warp jump desc
+hit points
+熱量
+Heat and cooling capacity
+Target ship heat
+Target ship heat and cooling capacity
+CPU
+飲む
+飲む
+Structures
+Close
+Captain's orders
+20% のメタルを廃棄
+メタルを宇宙空間に廃棄します
+20% のシリコンを廃棄
+シリコンを宇宙空間に廃棄します
+20% のゴールドを廃棄
+ゴールドを宇宙空間に廃棄します
+20% の飲料水を廃棄
+飲料水を宇宙空間に廃棄します
+20% の食料を廃棄
+食料を宇宙空間に廃棄します
+戦闘技術
+戦闘に関連する機器の制御に影響します
+Ship accuracy
+Accuracy + 1d10 is compared against enemy evade. 10 is always a hit.
+Ship evade
+[Max 5] Compared against enemy accuracy + 1d10 to evade attack. Increases chance to avoid asteroid collision.
+Target ship accuracy
+Accuracy + 1d10 is compared against player evade. 10 is always a hit.
+Target ship evade
+[Max 5] Compared against player accuracy + 1d10 to evade attack
+COLOR
+Recolour ship
+accent
+Crate
+Engine
+Engine thrust
+Armor plates
+Reactor
+uniform
+Table
+Plant bed
+菜園
+Dirt
+Welder
+Tablet
+Headset
+Space suit
+Space suit glass
+Extinguisher
+Water can
+Plan building
+Crew health
+Crew energy
+Crew morale
+Crew experience
+Structure hit points
+Weapon repeat
+Build tile
+Remove tile
+Cleaning mop
+Ship shield recharge
+Ship shield recharge description
+Target shield recharge
+Target shield recharge description
+Ship armor recharge
+Ship armor recharge description
+Target armor recharge
+Target armor recharge description
+Hostile
+Neutral
+Friendly
+Trade
+each
+購入
+売却
+へ
+クレジット
+RELATIONSHIP
+Relationship status with target
+TRADE OFFERS
+Trade offers with target
+TRADE OFFER
+Buy from target
+Sell to target
+Nav crew skill
+Engine power
+Mass
+Total
+Firing weapons
+Weapon crew skill
+Engine crew skill
+Interact
+THIS IS THE END OF THIS GROUP
+
+
+
+
+#	600		Crew, beds panel
+一般
+Cleaning.
+科学者
+Research and biology
+オペレータ
+Navigation, sensors, heat management.
+エンジニア
+Construction and repair.
+軍人
+Targeting and defense.
+艦長
+Command role
+Clear bed
+Clear beds
+Scout
+Miner
+Transporter
+Rename ship
+Create your own ship designation
+MISS
+Reset
+Reset color options to currently applied colors
+Apply
+Apply new colors to ship
+再生
+一時停止
+Red
+Crew focus on combat roles and repairs - manual orders required to build new structures.
+Autofire
+Weapons will auto target and fire on target ship
+Jump
+Execute warp jump. Requires charge and evade > 0.
+Blue
+All crew to return to ship
+Black
+Abandon ship
+CODE
+Sensors
+Detect incoming threats with additional warning.
+Sensor crew skill
+早送り
+役割
+Designate roles to crew
+Airlock
+宇宙船から退避している
+宇宙船へ帰還中
+移動中
+作業中
+食料へ移動中
+食事を食べる場所を探している
+食事中
+飲料水へ移動中
+水を飲んでいる
+医療パッドへ移動中
+Healing
+ベッドへ移動中
+睡眠中
+火災現場へ移動中
+消化中
+汚れへ移動中
+汚れを掃除中
+作業現場へ移動中
+構築中
+修理中
+死体へ移動中
+死体を運んでいる
+待機中
+Captain's chair
+navigation
+sensors
+targeting
+shield controls
+armor controls
+communications
+heat controls
+Heading to order
+Waiting for order
+engines
+栽培中
+Manual control
+Crew is under manual control
+タスク
+Crew member's allocated task
+Set course
+Asteroid field
+Ship signature
+研究端末
+mining controls
+
+#	800		Main menu text
+ニューゲーム
+ロード
+オプション
+終了
+セーブ
+コンティニュー
+空きデータ
+脱出ポッド 02
+スタート
+デフォルト
+ランダム
+乗組員
+ゲームを再開
+グラフィック
+オーディオ
+操作設定
+インターフェース
+マスター
+効果音
+メニュー
+音楽
+音量
+Master volume description
+Effects volume description
+Menu volume description
+Music volume description
+Stereo balance
+-1 (full left) to 1 (full right). Default = 0.
+Spatial blend
+0 (2d) to 1 (3d). Default = 1.
+Doppler level
+0 (none) to 5 (full). Default = 0.
+Zoom sensitivity
+Camera zoom sensitivity
+Zoom to cursor
+Zoom to cursor or zoom to screen centre
+Zoom invert
+Invert mousewheel
+Enable tooltips
+Enable in game tooltips
+Tooltip delay
+Increase or decrease the time before tooltip appears
+Drag sensitivity
+Camera drag sensitivity
+Scale UI
+Experimental. Reported to cause FPS issues. Default 1.
+Color preset
+Left click to set. Right click to clear.
+ウィンドウモード
+Enable windowed display
+フルスクリーン
+Enable fullscreen display
+Max FPS
+Set maximum FPS
+None
+VSYNC
+Toggle VSYNC
+Menu accent
+Set menu accent color
+Reset menu settings
+Resets all menu settings to default
+Set to fullscreen resolution
+Max distance
+Distance game audio can be heard from source. Default 100.
+Button hover
+Set button hover/enter sound
+Button click
+Set button click sound
+Success
+Set button success sound
+Error
+Set button error sound
+Double tap time
+Set the double tap time window
+Loading
+First load
+言語設定
+言語を決定する (再起動が必要です)
+英語
+中国語(簡体字)
+中国語(繁体字)
+フランス語
+ドイツ語
+ポーランド語
+ポルトガル語
+ロシア語
+スペイン語
+スウェーデン語
+カスタム
+UI alpha
+UI panel background transparency
+通知
+Crew notification color
+Enable alarm
+Enable alarm sounds
+Importing enemy ships
+Import
+Import and apply colors from file
+Export
+Export applied colors to file
+Crew panel max
+The maximum number of crew panel rows to show
+OLD
+Task panel max
+The maximum number of task panel rows to show
+Component panel max
+The maximum number of component panel rows to show
+Reset controls
+Resets all key binds to default
+Pitch
+Pitch change description. Default 15.
+Notification panel max
+The maximum number of notification panel rows to show
+Autosave timer
+Minutes between autosave
+
+#	1000	Key bindings
+m1 unused
+Mouse 1
+m2 unused
+Mouse 2
+Drag camera
+Drag camera
+Confirm text
+Confirm text entry
+Confirm text 2
+Confirm text entry 2
+Select all/Save group
+Select all/save group button
+unused
+unused desc
+Control group 1
+Select control group 1
+Control group 2
+Select control group 2
+Control group 3
+Select control group 3
+Control group 4
+Select control group 4
+Control group 5
+Select control group 5
+Control group 6
+Select control group 6
+Control group 7
+Select control group 7
+Control group 8
+Select control group 8
+Control group 9
+Select control group 9
+Control group 10
+Select control group 10
+Select/remove single
+Select/remove single structure/crew
+Stop shooting
+Stop selected weapons shooting
+電源オフ
+選択した設置物の電源をオフにします
+電源オン
+選択した設置物の電源をオンにします
+Release control
+Release control of selected crew
+Take control
+Take control of selected crew
+Enable work
+Enable working on selected structure
+Disable/halt work
+Disable working on selected structure
+一時停止
+ゲームを一時停止
+ドア/エアロックをロック
+選択したエアロックをロックします
+ドア/エアロックをアンロック
+選択したエアロックをアンロックします
+空気を排出する
+エアロックから空気を排出します
+エアロックを閉じる
+エアロックによる空気の排出を停止します
+回転(時計回り)
+設置する対象を時計回りに回転させます
+回転(反時計回り)
+設置する対象を反時計回りに回転させます
+プランパネル
+プランパネルの表示 表示/非表示
+乗組員パネル
+乗組員パネルの表示 表示/非表示
+カーゴパネル
+カーゴパネルの表示 表示/非表示
+宇宙船パネル
+宇宙船パネルの表示 表示/非表示
+カラーパネル
+カラーパネルの表示 表示/非表示
+Remove
+Quick toggle remove while building
+Prioritize
+Quick toggle prioritize while building
+コード:レッドの切り替え
+コード:レッドのオン/オフを切り替えます
+自動攻撃の切り替え
+自動攻撃のオン/オフを切り替えます
+端末に割り当てる
+乗組員を選択した端末に割り当てます
+ベッドを割り当てる
+乗組員を選択したベッドに割り当てます
+睡眠(命令)
+乗組員にすぐ寝るように指示をします
+食事(命令)
+乗組員にすぐ食事をとるように指示をします
+水分補給(命令)
+乗組員にすぐ水分補給するように指示をします
+コード:ブルーの切り替え
+コード:ブルーのオン/オフを切り替えます
+ワープドライブ
+Requires full charge and >0 evade
+コード:ブラックの切り替え
+コード:ブラックのオン/オフを切り替えます
+役割パネル
+役割パネルの表示 表示/非表示
+Toggle game speed
+Toggle game speed speed
+Center camera
+Center camera on ship
+Task panel
+Toggle task panel on/off
+Structure panel
+Toggle structure panel on/off
+Research panel
+Toggle research panel on/off
+Notification panel
+Toggle notification panel on/off
+Toggle UI
+Toggle UI on/off
+Zoom in
+Zoom camera in
+Zoom out
+Zoom camera out
+Quick save
+Save game to the quick save slot
+Quick load
+Save game to the quick load slot
+
+#	1200	TITLE
+Alpha 1.2e
+GAME OVER
+
+
+
+#	1400 Back up
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
+Backup
