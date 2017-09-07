@@ -31,9 +31,12 @@
 1. [日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
 2. Starship Theory の Config ディレクトリを開きます。
     - Config ディレクトリの場所:
-        - Windows の場合: C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config
-        - Mac の場合: ~/Library/Application Support/Steam/steamapps/common/Starship Theory/Config/
-        - Linux(Ubuntu) の場合: ~/Steam/steamapps/common/Starship Theory/Config/
+        - Windows の場合:
+            - `C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config`
+        - Mac の場合:
+            - `~/Library/Application Support/Steam/steamapps/common/Starship Theory/Config/`
+        - Linux(Ubuntu) の場合:
+            - `~/Steam/steamapps/common/Starship Theory/Config/`
 3. Config ディレクトリに手順1で保存した Custom.txt を配置します。
 4. ゲームを起動します。
 5. Interface ＞ Language を選んで デフォルトでは English となっている部分を Cunstom になるまでクリックします。
@@ -54,9 +57,12 @@
 1. 最新の[日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
 2. Starship Theory の Config ディレクトリを開きます。
     - Config ディレクトリの場所:
-        - Windows の場合: C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config
-        - Mac の場合: ~/Library/Application Support/Steam/steamapps/common/Starship Theory/Config/
-        - Linux(Ubuntu) の場合: ~/Steam/steamapps/common/Starship Theory/Config/
+        - Windows の場合:
+            - `C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config`
+        - Mac の場合:
+            - `~/Library/Application Support/Steam/steamapps/common/Starship Theory/Config/`
+        - Linux(Ubuntu) の場合:
+            - `~/Steam/steamapps/common/Starship Theory/Config/`
 3. Config ディレクトリに手順1で保存した Custom.txt を上書き保存します。
 
 ---
