@@ -12,9 +12,10 @@
 
 この内容は古いものとなります。
 
+---
 ### 日本語化ファイルについて
 
-[ここ](./Custom.txt)に日本語化ファイルがあります。
+[ここ](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt)に日本語化ファイルがあります。
 
 この日本語化ファイルはまだ翻訳途中です。
 
@@ -24,9 +25,10 @@
 
 そのため、不自然な訳語になりますが一部の単語はその現象を回避するもので訳語をあてています。
 
+---
 ### 日本語化のやりかた
 
-1. [日本語化ファイル](./Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
+1. [日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
 2. Starship Theory の Config ディレクトリを開きます。
     - Config ディレクトリの場所:
         - Windows の場合: C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config
@@ -38,6 +40,7 @@
 6. Quit を選んでゲームを終了します。
 7. もう一度、ゲームを起動すると日本語化されます。
 
+---
 ### 元に戻す方法
 
 1. ゲームを起動します。
@@ -45,9 +48,10 @@
 3. 終了 を選んでゲームを終了します。
 4. Starship Theory の Config ディレクトリを開いて、 Custom.txt を削除します。
 
+---
 ### 日本語化を更新する方法
 
-1. 最新の[日本語化ファイル](./Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
+1. 最新の[日本語化ファイル](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/Custom.txt) を保存します。ファイル名はそのまま「 Custom.txt 」で保存して下さい。
 2. Starship Theory の Config ディレクトリを開きます。
     - Config ディレクトリの場所:
         - Windows の場合: C:\Program Files (x86)\Steam\steamapps\common\Starship Theory\Config
@@ -55,10 +59,12 @@
         - Linux(Ubuntu) の場合: ~/Steam/steamapps/common/Starship Theory/Config/
 3. Config ディレクトリに手順1で保存した Custom.txt を上書き保存します。
 
+---
 ### 日本語化の割合(だいたい)
 
 40% ぐらい
 
+---
 ### 日本語化するとバグった単語リスト
 
 これらの単語を行頭に入れるとバグりました
