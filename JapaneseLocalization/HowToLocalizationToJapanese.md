@@ -50,7 +50,7 @@
 
 1. ゲームを起動します。
 2. インターフェース ＞ 言語設定 を選んで Custom となっている部分を English になるまでクリックします。
-    - ![Language で English を選ぶ](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/ "画面操作のイメージ")
+    - ![Language で English を選ぶ](https://github.com/saronpasu/Starship-Theory/raw/master/JapaneseLocalization/img/SettingToEnglish.png "画面操作のイメージ")
 3. 終了 を選んでゲームを終了します。
 4. Starship Theory の Config ディレクトリを開いて、 Custom.txt を削除します。
 
