@@ -1,6 +1,6 @@
 ### これはなに？
 
-Starship Theory という Steam ゲームの Modding とかを扱う個人リポジトリです。
+[Starship Theory](http://store.steampowered.com/app/574760) という Steam ゲームの Modding とかを扱う個人リポジトリです。
 
 ### ご案内
 
